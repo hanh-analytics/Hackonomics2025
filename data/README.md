@@ -1,4 +1,4 @@
-# 📁 data/
+# 📁 Data
 
 This folder contains datasets used in the **Hackonomics 2025** project:  
 **High-Impact Financial Problem to Solve: _Predicting and Mitigating Financial Vulnerability Due to Climate Disasters_**
