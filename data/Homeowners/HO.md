@@ -40,4 +40,18 @@ This data supports analysis for the Hackonomics 2025 project:
 | `Geography` | ZIP Code Tabulation Area (ZCTA) |
 | `Geographic Area Name` | Human-readable region name |
 
+## 📊 Data Source
+- Table: B25003 – Tenure
+
+- Release: ACS 2023 5-Year Estimates
+
+- Source: data.census.gov
+
+## 🧾 Notes
+- The margins of error (*_M) indicate 90% confidence intervals as per ACS methodology.
+
+- ZCTA ≠ USPS ZIP Code, but approximates postal ZIP areas for demographic use.
+
+## 📅 Update Cycle
+- Data covers 2019–2023 and is updated annually with rolling 5-year averages.
 
